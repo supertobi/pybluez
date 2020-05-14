@@ -65,7 +65,7 @@ Please use the mailing list at
 
 **INSTALLATION:**
 
-Use pip(there are also binaries for Windows platform on PyPi):
+Use pip(there are also binaries for Windows platform on PyPi (https://pypi.org/project/PyBluez/)):
     
     pip install pybluez
 
